@@ -9,7 +9,7 @@ import litellm
 from litellm.litellm_core_utils.get_llm_provider_logic import get_llm_provider
 from litellm.utils import trim_messages
 
-_API_BASE: Final = "https://openuncensored.com/api/v1"
+_API_BASE: Final = "https://api.openuncensored.com/v1"
 _MODEL: Final = "openuncensored/glm-5.3-flash-uncensored"
 
 

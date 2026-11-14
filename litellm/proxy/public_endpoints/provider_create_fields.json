@@ -3501,7 +3501,7 @@
       {
         "key": "api_base",
         "label": "API Base",
-        "placeholder": "https://openuncensored.com/api/v1",
+        "placeholder": "https://api.openuncensored.com/v1",
         "tooltip": "Optional. Leave blank to use the provider's default endpoint.",
         "required": false,
         "field_type": "text",

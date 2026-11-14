@@ -316,7 +316,7 @@
     }
   },
   "openuncensored": {
-    "base_url": "https://openuncensored.com/api/v1",
+    "base_url": "https://api.openuncensored.com/v1",
     "api_key_env": "OPENUNCENSORED_API_KEY",
     "api_base_env": "OPENUNCENSORED_API_BASE",
     "provider_info": {
